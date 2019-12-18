@@ -1,0 +1,11 @@
+[package]
+name = "pivit"
+version = "0.0.0"
+authors = ["Nicolas Stalder <n@stalder.io>"]
+edition = "2018"
+description = "PIV client API"
+repository = "https://github.com/nickray/pivit"
+license = "Apache-2.0 OR MIT"
+readme = "README.md"
+
+[dependencies]
